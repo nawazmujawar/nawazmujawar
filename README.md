@@ -1,10 +1,5 @@
 ### Hello 👋 I'm Nawaz  
 
-<!--
-**nawazmujawar/nawazmujawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on Foodieprint - An recipe collection app.
 - 🌱 I’m currently learning React.js and Redux.
 - 👯 I’m looking to collaborate on open source projects.
@@ -14,4 +9,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I listen 👂 music when I'm alone.
 - 💼 I'm looking for Frontend Developer position.
--->
+
