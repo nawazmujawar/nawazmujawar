@@ -1,12 +1,10 @@
 ### Hello 👋 I'm Nawaz  
-
-- 🔭 I’m currently working on Foodieprint - An recipe collection app.
-- 🌱 I’m currently learning React Native , React.js and Redux.
-- 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with Redux and Typescript. 
-- 💬 Ask me about Web related stuff.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nawazmujawar/) or [Twitter](https://twitter.com/NawazMujawar7)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I listen 👂 music when I'm alone.
-- 💼 I'm looking for creative project ideas.
+**Frontend Developer with 4.5 years of React experience**
+🚀 Building scalable web applications with React, TypeScript, and modern tools
+📍 Pune, Maharashtra
+💼 Open to frontend opportunities at product companies
+🔭 I’m currently working on Foodieprint - An recipe collection app.
+💬 Ask me about Web related stuff.
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nawazmujawar/) or [Twitter](https://x.com/iammujawarnawaz)
+💼 I'm looking for creative project ideas.
 
